@@ -1,1 +1,15 @@
 hi
+
+main git commands
+
+git clone <repo_url>  project download
+
+development
+
+Changes in file
+
+git checkout -b "test"
+git status
+git add filename path
+git commit -m ""
+git push
